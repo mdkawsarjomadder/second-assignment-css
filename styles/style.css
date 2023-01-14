@@ -1,0 +1,21 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Poppins:ital,wght@0,500;1,300&display=swap');
+    font-family: 'Open Sans', sans-serif;
+    .container{
+        display: grid;
+        /* grid-template-columns: repeat(1, 1fr);
+        justify-content: space-between;
+        text-align: center;
+        font-size: 300px;
+    } 
+    .header-left{
+       
+    }
+    .header-h{
+        padding:20px;
+        margin: 10px;
+    }
+    .header-right{
+        margin: 10px;
+     text-align: center;
+    }
